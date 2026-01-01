@@ -1,2 +1,1 @@
 # obsidian-notes_mac
-
